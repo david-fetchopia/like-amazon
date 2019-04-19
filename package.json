@@ -1,0 +1,23 @@
+{
+  "name": "like-amazon",
+  "version": "1.0.0",
+  "description": "CLI app processing orders and inventory using inquirer and mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-fetchopia/like-amazon.git"
+  },
+  "author": "DMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-fetchopia/like-amazon/issues"
+  },
+  "homepage": "https://github.com/david-fetchopia/like-amazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
